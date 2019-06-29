@@ -1,0 +1,19 @@
+> npm install
+> npm start
+// Or run with Nodemon
+> npm run dev
+
+Visit http://localhost:5000
+
+MongoDB
+Open "config/keys.js" and add your MongoDB URI, local or Atlas
+
+https://www.youtube.com/watch?v=6FOq4cUdH8k
+
+
+username: admin@techmynd.com
+pass: 123456
+
+
+localdb connection connection
+dbPassword = 'mongodb://localhost:27017/loginapptwo';

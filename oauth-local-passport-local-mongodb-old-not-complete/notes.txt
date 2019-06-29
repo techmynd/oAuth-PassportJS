@@ -1,0 +1,15 @@
+> npm install
+> npm start
+// Or run with Nodemon
+> npm run dev
+
+Visit http://localhost:3000
+
+MongoDB
+Open "config/keys.js" and add your MongoDB URI, local or Atlas
+
+https://www.youtube.com/watch?v=Z1ktxiqyiLA
+https://www.youtube.com/watch?v=OnuC3VtEQks
+https://www.youtube.com/watch?v=iX8UhDOmkPE
+
+not complete - not working
